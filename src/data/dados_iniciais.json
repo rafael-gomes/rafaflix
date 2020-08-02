@@ -1,46 +1,82 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
-      "link": "https://www.alura.com.br/formacao-front-end",
-      "cor": "#6BD1FF",
-      "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
-      },
+      "titulo": "Filmes",
+      "cor": "orange",
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "O Senhor Dos Aneis - A Sociedade do Anel",
+          "url": "https://www.youtube.com/watch?v=zIu2hTgqquw"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Matrix",
+          "url": "https://www.youtube.com/watch?v=vKQi3bBA1y8"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "A Origem",
+          "url": "https://www.youtube.com/watch?v=0PIg7ttyegA"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "Mad Max: Estrada da Fúria",
+          "url": "https://www.youtube.com/watch?v=KUFAu2IROVk"
+        }
+      ]
+    },
+    {
+      "titulo": "Games",
+      "cor": "red",
+      "videos": [
+        {
+          "titulo": "Red Dead Redemption 2",
+          "url": "https://www.youtube.com/watch?v=zBrkdzAAlkA"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "GTA V",
+          "url": "https://www.youtube.com/watch?v=n0t55oggU8Q"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "Cyberpunk 2077",
+          "url": "https://www.youtube.com/watch?v=LembwKDo1Dk"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+          "titulo": "The Witcher 3",
+          "url": "https://www.youtube.com/watch?v=KmgR4JiYmPY"
         },
         {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        }        
+          "titulo": "Far Cry 3",
+          "url": "https://www.youtube.com/watch?v=1uAPIickjPg"
+        }
+      ]
+    },
+    {
+      "titulo": "Séries",
+      "link": "https://www.alura.com.br/formacao-front-end",
+      "cor": "#6BD1FF",
+      "videos": [
+        {
+          "titulo": "Band of Brothers",
+          "url": "https://www.youtube.com/watch?v=sYLSfn5tUpw"
+        },
+        {
+          "titulo": "Kidding",
+          "url": "https://www.youtube.com/watch?v=GViEa1rTrcg"
+        },
+        {
+          "titulo": "The Boyz",
+          "url": "https://www.youtube.com/watch?v=BxmSk_pv8tE"
+        },
+        {
+          "titulo": "Prison Break",
+          "url": "https://www.youtube.com/watch?v=C2ssQOyVJqQ"
+        },
+        {
+          "titulo": "Dexter",
+          "url": "https://www.youtube.com/watch?v=YQeUmSD1c3g"
+        },
+        {
+          "titulo": "Lost",
+          "url": "https://www.youtube.com/watch?v=KTu8iDynwNc"
+        }
       ]
     },
     {
@@ -99,58 +135,7 @@
         }
       ]
     },
-    {
-      "titulo": "Filmes",
-      "cor": "orange",
-      "videos": [
-        {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
-        },
-        {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
-        },
-        {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
-        },
-        {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
-        }
-      ]
-    },
-    {
-      "titulo": "Games",
-      "cor": "red",
-      "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
-      },
-      "videos": [
-        {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
-        },
-        {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
-        },
-        {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
-        },
-        {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
-        },
-        {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
-        }
-      ]
-    },
+    
     {
       "titulo": "Aprendendo a aprender tecnologia",
       "cor": "#6b5be2",
